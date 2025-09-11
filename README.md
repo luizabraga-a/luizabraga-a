@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Ana Luiza Braga
+# Ana Luiza Braga
 
 **`Desenvolvedora FullStack`**
 
