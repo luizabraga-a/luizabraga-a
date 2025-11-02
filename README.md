@@ -6,6 +6,7 @@ Hello, World! Sou a Ana Luíza Braga, tenho 24 anos e sou natural de Rio Branco/
 
 [![LinkedIn](assets/icons8-linkedin-48.png)](https://www.linkedin.com/in/luizabragaa) [![Instagram](assets/icons8-instagram-48.png)](https://www.instagram.com/luizabraga.a)
 
+### Linguagens e Tecnologias
 <img 
     align="left" 
     alt="MySQL"
