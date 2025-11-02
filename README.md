@@ -9,7 +9,7 @@ Hello, World! Sou a Ana Luíza Braga, tenho 24 anos e sou natural de Rio Branco/
     <img 
       src="assets/icons8-linkedin-48.png" 
       alt="LinkedIn" 
-      width="20px" 
+      width="40px" 
       style="vertical-align:middle; margin-right: 8px;"
     />
     <span style="font-size: 16px; color: white;">luizabragaa</span>
@@ -19,12 +19,20 @@ Hello, World! Sou a Ana Luíza Braga, tenho 24 anos e sou natural de Rio Branco/
     <img 
       src="assets/icons8-instagram-48.png" 
       alt="Instagram" 
-      width="20px" 
+      width="40px" 
       style="vertical-align:middle; margin-right: 8px;"
     />
     <span style="font-size: 16px; color: white;">@luizabraga.a</span>
   </a>
 </p>
+
+<style>
+  a:hover {
+    text-decoration: none;
+    color: white;
+  }
+</style>
+
 
 ### Linguagens e Tecnologias
 
