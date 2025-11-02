@@ -5,26 +5,42 @@
 Hello, World! Sou a Ana Luíza Braga, tenho 24 anos e sou natural de Rio Branco/AC. Sou Mestra em Física, na área de Física Computacional, especializada na modelagem de sistemas dinâmicos complexos e não-lineares utilizando linguagens como Python, Fortran, Julia e C. Desde os 15 anos a programação faz parte da minha trajetória, comecei com os estudos autodidatas em HTML5, CSS e JavaScript. Atualmente, curso Engenharia de Software e moro em Joinville/SC. Atuo como estagiária na área de Engenharia de Dados, desenvolvendo habilidades de automação com Python, manipulação de dados em SQL e criação de dashboards com Power BI. Também estou aprofundando conhecimentos em banco de dados na nuvem, APIs e backend para integração e manipulação de dados. Se você ama ciência e programação, me siga também nas outras redes! 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/luizabragaa" target="_blank" style="text-decoration: none; color: white;">
+  <a href="https://www.linkedin.com/in/luizabragaa" target="_blank">
     <img 
       src="assets/icons8-linkedin-48.png" 
       alt="LinkedIn" 
-      width="40px" 
+      width="20px" 
       style="vertical-align:middle; margin-right: 8px;"
     />
-    <span style="font-size: 16px; color: white;">luizabragaa</span>
+    <span>luizabragaa</span>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/luizabraga.a" target="_blank" style="text-decoration: none; color: white;">
+  <a href="https://www.instagram.com/luizabraga.a" target="_blank">
     <img 
       src="assets/icons8-instagram-48.png" 
       alt="Instagram" 
-      width="40px" 
+      width="20px" 
       style="vertical-align:middle; margin-right: 8px;"
     />
-    <span style="font-size: 16px; color: white;">@luizabraga.a</span>
+    <span>@luizabraga.a</span>
   </a>
 </p>
+
+<style>
+  p a, 
+  p a:visited, 
+  p a:hover, 
+  p a:active {
+    text-decoration: none; /* remove o sublinhado */
+    color: white !important; /* força a cor branca */
+  }
+
+  p span {
+    font-size: 16px;
+    vertical-align: middle;
+  }
+</style>
+
 
 <style>
   a:hover {
