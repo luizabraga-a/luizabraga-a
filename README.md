@@ -77,7 +77,7 @@ Desde os 15 anos a programação faz parte da minha trajetória, comecei com est
     title="Power BI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftpowerbi.svg" 
+    src="https://img.icons8.com/color/48/000000/power-bi.png" 
 />
 
 <br/>
