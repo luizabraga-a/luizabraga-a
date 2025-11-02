@@ -61,7 +61,7 @@ Desde os 15 anos a programação faz parte da minha trajetória, comecei com est
     title="Fortran" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://en.wikipedia.org/wiki/Fortran#/media/File:Fortran_logo.svg" 
+    src="https://github.com/fortran-lang/fortran-lang.org/blob/master/assets/img/fortran-logo.svg" 
 />
 <img 
     align="left" 
@@ -69,15 +69,7 @@ Desde os 15 anos a programação faz parte da minha trajetória, comecei com est
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
     align="left" 
