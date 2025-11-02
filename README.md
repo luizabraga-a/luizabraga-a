@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/luizabragaa" target="_blank">
   <img src="assets/icons8-linkedin-48.png" alt="LinkedIn" width="30px"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;;
 <a href="https://www.instagram.com/luizabraga.a" target="_blank">
   <img src="assets/icons8-instagram-48.png" alt="Instagram" width="30px"/>
 </a>
