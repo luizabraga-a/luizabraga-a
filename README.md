@@ -6,17 +6,24 @@ Meu nome é Ana Luíza, tenho 24 anos e sou natural de Rio Branco/AC. Sou Mestra
 Desde os 15 anos a programação faz parte da minha trajetória, comecei com estudos autodidatas em HTML5, CSS e JavaScript. Atualmente, curso Engenharia de Software e moro em Joinville/SC. Atuo como estagiária na área de Engenharia de Dados, desenvolvendo habilidades em automação com Python, manipulação de dados em SQL e criação de dashboards com Power BI. Também estou aprofundando conhecimentos em banco de dados na nuvem, APIs e backend para integração e manipulação de dados. Se você ama ciência e programação, me siga também nas outras redes! 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/luizabragaa" target="_blank">
+  <a href="https://www.linkedin.com/in/luizabragaa" target="_blank" style="text-decoration:none;">
     <img 
-      src="https://img.shields.io/badge/-luizabragaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+      alt="LinkedIn" 
+      width="22" 
+      style="vertical-align: middle; margin-right: 6px;"
     />
+    <span style="font-size: 16px; color: #0A66C2; font-weight: 600;">luizabragaa</span>
   </a>
-  <a href="https://www.instagram.com/luizabraga.a" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/luizabraga.a" target="_blank" style="text-decoration:none;">
     <img 
-      src="https://img.shields.io/badge/-@luizabraga.a-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-      alt="Instagram"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" 
+      alt="Instagram" 
+      width="22" 
+      style="vertical-align: middle; margin-right: 6px;"
     />
+    <span style="font-size: 16px; color: #E4405F; font-weight: 600;">@luizabraga.a</span>
   </a>
 </p>
 
