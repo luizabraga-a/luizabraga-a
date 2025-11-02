@@ -1,21 +1,40 @@
 # Ana Luiza Braga
 
-**`Engenheira de Dados Jr`**
+**`Engenheira de Dados`**
+
+Meu nome é Ana Luíza, tenho 24 anos e sou natural de Rio Branco/AC. Sou Mestra em Física, na área de Física Computacional, especializada na modelagem de sistemas dinâmicos complexos e não-lineares, utilizando linguagens como Python, Fortran, Julia e C.
+Desde os 15 anos a programação faz parte da minha trajetória, comecei com estudos autodidatas em HTML5, CSS e JavaScript. Atualmente, curso Engenharia de Software em Joinville/SC e atuo como estagiária na área de Engenharia de Dados, desenvolvendo habilidades em automação com Python, manipulação de dados em SQL e criação de dashboards com Power BI. Também estou aprofundando conhecimentos em APIs e backend para integração e manipulação de dados em aplicações reais.
 
 ### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="SQL"
-    title="SQL" 
+    alt="MySQL"
+    title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL Server"
+    title="SQL Server" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
+/>
+<img 
+    align="left" 
     alt="MongoDB"
-    title="MongoDB" 
+    title="NoSQL / MongoDB" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
@@ -34,15 +53,7 @@
     title="Julia" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/000000/julia.png" 
-/>
-<img 
-    align="left" 
-    alt="MATLAB" 
-    title="MATLAB" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/000000/matlab.png" 
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/julia.svg" 
 />
 <img 
     align="left" 
@@ -50,7 +61,23 @@
     title="Fortran" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/ios-filled/50/000000/fortran.png" 
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fortran.svg" 
+/>
+<img 
+    align="left" 
+    alt="C" 
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
 />
 <img 
     align="left" 
@@ -58,23 +85,12 @@
     title="Power BI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/000000/power-bi.png" 
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftpowerbi.svg" 
 />
 
 <br/>
 <br/>
 
-
-
-### 📊 Estatísticas
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
 
 <img 
     align="left" 
