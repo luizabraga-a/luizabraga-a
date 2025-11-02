@@ -53,7 +53,7 @@ Desde os 15 anos a programação faz parte da minha trajetória, comecei com est
     title="Julia" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/julia.svg" 
+    src="https://img.icons8.com/color/48/000000/julia.png" 
 />
 <img 
     align="left" 
@@ -61,7 +61,7 @@ Desde os 15 anos a programação faz parte da minha trajetória, comecei com est
     title="Fortran" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fortran.svg" 
+    src="https://en.wikipedia.org/wiki/Fortran#/media/File:Fortran_logo.svg" 
 />
 <img 
     align="left" 
