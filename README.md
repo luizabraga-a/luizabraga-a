@@ -4,23 +4,41 @@
 
 Hello, World! Sou a Ana Luíza Braga, tenho 24 anos e sou natural de Rio Branco/AC. Sou Mestra em Física, na área de Física Computacional, especializada na modelagem de sistemas dinâmicos complexos e não-lineares utilizando linguagens como Python, Fortran, Julia e C. Desde os 15 anos a programação faz parte da minha trajetória, comecei com os estudos autodidatas em HTML5, CSS e JavaScript. Atualmente, curso Engenharia de Software e moro em Joinville/SC. Atuo como estagiária na área de Engenharia de Dados, desenvolvendo habilidades de automação com Python, manipulação de dados em SQL e criação de dashboards com Power BI. Também estou aprofundando conhecimentos em banco de dados na nuvem, APIs e backend para integração e manipulação de dados. Se você ama ciência e programação, me siga também nas outras redes! 
 
-<div style="display: flex; gap: 32px; align-items: center;">
-
-  <!-- LinkedIn -->
-  <div onclick="window.open('https://www.linkedin.com/in/luizabragaa', '_blank')" 
-       style="cursor: pointer; display: flex; align-items: center; gap: 8px; color: white;">
+<div class="social-links">
+  <a href="https://www.linkedin.com/in/luizabragaa" target="_blank">
     <img src="assets/icons8-linkedin-48.png" alt="LinkedIn" width="40px">
-    <span style="font-size: 16px;">luizabragaa</span>
-  </div>
+    <span>luizabragaa</span>
+  </a>
 
-  <!-- Instagram -->
-  <div onclick="window.open('https://www.instagram.com/luizabraga.a', '_blank')" 
-       style="cursor: pointer; display: flex; align-items: center; gap: 8px; color: white;">
+  <a href="https://www.instagram.com/luizabraga.a" target="_blank">
     <img src="assets/icons8-instagram-48.png" alt="Instagram" width="40px">
-    <span style="font-size: 16px;">@luizabraga.a</span>
-  </div>
-
+    <span>@luizabraga.a</span>
+  </a>
 </div>
+
+<style>
+.social-links {
+  display: flex;
+  gap: 32px; /* distância entre LinkedIn e Instagram */
+  align-items: center;
+}
+
+.social-links a {
+  display: flex;
+  align-items: center;
+  gap: 8px;       /* distância entre ícone e texto */
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.social-links a:visited,
+.social-links a:hover,
+.social-links a:active {
+  color: white !important;
+  text-decoration: none !important;
+}
+</style>
+
 
 ### Linguagens e Tecnologias
 
