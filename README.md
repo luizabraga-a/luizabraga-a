@@ -4,27 +4,36 @@
 
 Hello, World! Sou a Ana Luíza Braga, tenho 24 anos e sou natural de Rio Branco/AC. Sou Mestra em Física, na área de Física Computacional, especializada na modelagem de sistemas dinâmicos complexos e não-lineares utilizando linguagens como Python, Fortran, Julia e C. Desde os 15 anos a programação faz parte da minha trajetória, comecei com os estudos autodidatas em HTML5, CSS e JavaScript. Atualmente, curso Engenharia de Software e moro em Joinville/SC. Atuo como estagiária na área de Engenharia de Dados, desenvolvendo habilidades de automação com Python, manipulação de dados em SQL e criação de dashboards com Power BI. Também estou aprofundando conhecimentos em banco de dados na nuvem, APIs e backend para integração e manipulação de dados. Se você ama ciência e programação, me siga também nas outras redes! 
 
-<p align="left">
+<p class="social-links">
   <a href="https://www.linkedin.com/in/luizabragaa" target="_blank">
-    <img 
-      src="assets/icons8-linkedin-48.png" 
-      alt="LinkedIn" 
-      width="20px" 
-      style="vertical-align:middle; margin-right: 8px;"
-    />
+    <img src="assets/icons8-linkedin-48.png" alt="LinkedIn" width="40px" />
     <span>luizabragaa</span>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.instagram.com/luizabraga.a" target="_blank">
-    <img 
-      src="assets/icons8-instagram-48.png" 
-      alt="Instagram" 
-      width="20px" 
-      style="vertical-align:middle; margin-right: 8px;"
-    />
+    <img src="assets/icons8-instagram-48.png" alt="Instagram" width="40px" />
     <span>@luizabraga.a</span>
   </a>
 </p>
+
+<style>
+.social-links a {
+  color: white;           /* cor do texto */
+  text-decoration: none;  /* sem sublinhado */
+  display: inline-flex;    /* alinha ícone e texto verticalmente */
+  align-items: center;
+  gap: 8px;               /* espaçamento entre ícone e texto */
+}
+
+/* Força todos os estados do link a manterem a mesma aparência */
+.social-links a:visited,
+.social-links a:hover,
+.social-links a:active {
+  color: white;
+  text-decoration: none;
+}
+</style>
+
 
 <style>
   p a, 
