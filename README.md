@@ -2,8 +2,7 @@
 
 **`Engenheira de Dados | Cientista de Dados`**
 
-Meu nome é Ana Luíza, tenho 24 anos e sou natural de Rio Branco/AC. Sou Mestra em Física, na área de Física Computacional, especializada na modelagem de sistemas dinâmicos complexos e não-lineares, utilizando linguagens como Python, Fortran, Julia e C.
-Desde os 15 anos a programação faz parte da minha trajetória, comecei com estudos autodidatas em HTML5, CSS e JavaScript. Atualmente, curso Engenharia de Software e moro em Joinville/SC. Atuo como estagiária na área de Engenharia de Dados, desenvolvendo habilidades em automação com Python, manipulação de dados em SQL e criação de dashboards com Power BI. Também estou aprofundando conhecimentos em banco de dados na nuvem, APIs e backend para integração e manipulação de dados. Se você ama ciência e programação, me siga também nas outras redes! 
+Hello World! Sou a Ana Luíza Braga, tenho 24 anos e sou natural de Rio Branco/AC. Sou Mestra em Física, na área de Física Computacional, especializada na modelagem de sistemas dinâmicos complexos e não-lineares utilizando linguagens como Python, Fortran, Julia e C. Desde os 15 anos a programação faz parte da minha trajetória, comecei com os estudos autodidatas em HTML5, CSS e JavaScript. Atualmente, curso Engenharia de Software e moro em Joinville/SC. Atuo como estagiária na área de Engenharia de Dados, desenvolvendo habilidades de automação com Python, manipulação de dados em SQL e criação de dashboards com Power BI. Também estou aprofundando conhecimentos em banco de dados na nuvem, APIs e backend para integração e manipulação de dados. Se você ama ciência e programação, me siga também nas outras redes! 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luizabragaa" target="_blank">
