@@ -34,7 +34,7 @@
     title="Julia" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Julia_logo.svg" 
+    src="https://img.icons8.com/color/48/000000/julia.png" 
 />
 <img 
     align="left" 
@@ -42,7 +42,7 @@
     title="MATLAB" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" 
+    src="https://img.icons8.com/color/48/000000/matlab.png" 
 />
 <img 
     align="left" 
@@ -50,7 +50,7 @@
     title="Fortran" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/3/33/Fortran_logo.svg" 
+    src="https://img.icons8.com/ios-filled/50/000000/fortran.png" 
 />
 <img 
     align="left" 
@@ -58,7 +58,7 @@
     title="Power BI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" 
+    src="https://img.icons8.com/color/48/000000/power-bi.png" 
 />
 
 <br/>
