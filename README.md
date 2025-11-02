@@ -7,10 +7,16 @@ Desde os 15 anos a programação faz parte da minha trajetória, comecei com est
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luizabragaa" target="_blank">
-    <img src="https://img.shields.io/badge/-luizabragaa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img 
+      src="https://img.shields.io/badge/-luizabragaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://www.instagram.com/luizabraga.a" target="_blank">
-    <img src="https://img.shields.io/badge/-@luizabraga.a-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img 
+      src="https://img.shields.io/badge/-@luizabraga.a-E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+      alt="Instagram"
+    />
   </a>
 </p>
 
